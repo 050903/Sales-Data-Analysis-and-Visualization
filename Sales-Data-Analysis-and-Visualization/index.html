@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sales Data Dashboard</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sales Data Dashboard</h1>
+        <img src="data:image/png;base64,{{ plot_url }}" class="img-fluid">
+        <h2>Summary Data</h2>
+        {{ summary_html|safe }}
+    </div>
+</body>
+</html>
