@@ -1,6 +1,8 @@
 # Sales-Data-Analysis-and-Visualization
 This project provides insights into sales performance across different regions and products. It includes Python scripts for data analysis and visualization, as well as a web application built with Flask to display the results.
-Dưới đây là một phiên bản chi tiết và đầy đủ của tệp README.md cho dự án của bạn:
+![__emitted_0 png](https://github.com/user-attachments/assets/d8af42fd-3355-47b9-ab5d-f2828584573d)
+![combined_plot](https://github.com/user-attachments/assets/046de7c2-f197-4434-aff8-3b89618ef032)
+
 
 ```markdown
 # Sales Data Analysis and Visualization
